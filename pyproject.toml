@@ -19,6 +19,7 @@ redis = "^5.0.1"
 requests = "^2.31.0"
 flake8 = "^7.0.0"
 django-celery-beat = "^2.5.0"
+docker = "^7.0.0"
 
 [tool.poetry.dev-dependencies]
 
